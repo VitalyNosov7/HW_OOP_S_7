@@ -1,0 +1,6 @@
+окт. 10, 2023 6:14:31 PM Model.CalculatorComplexNumber addComplexNumber
+INFO: Суммировали комплексные числа!
+окт. 10, 2023 6:14:31 PM Model.CalculatorComplexNumber multiplyComplexNumber
+INFO: Умножили комплексные числа!
+окт. 10, 2023 6:14:31 PM Model.CalculatorComplexNumber divideComplexNumber
+INFO: Разделили комплексные числа!
